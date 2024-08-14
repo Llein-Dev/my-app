@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "question": "Hà Nội là thủ đô của Việt Nam.",
+        "correctAnswer": true,
+        "explanation": "Hà Nội là thủ đô và cũng là trung tâm chính trị, văn hóa của Việt Nam."
+    },
+    {
+        "id": 2,
+        "question": "Sông Cửu Long chảy qua thành phố Đà Nẵng.",
+        "correctAnswer": false,
+        "explanation": "Sông Cửu Long nằm ở miền Tây Nam Bộ, không chảy qua Đà Nẵng."
+    },
+    {
+        "id": 3,
+        "question": "Việt Nam có bờ biển dài hơn 3.000 km.",
+        "correctAnswer": true,
+        "explanation": "Bờ biển Việt Nam dài khoảng 3.260 km từ Bắc đến Nam."
+    },
+    {
+        "id": 4,
+        "question": "Núi Phan Xi Păng là ngọn núi cao nhất Việt Nam.",
+        "correctAnswer": true,
+        "explanation": "Núi Phan Xi Păng cao 3.143 mét, là đỉnh núi cao nhất Việt Nam, nằm ở tỉnh Lào Cai."
+    },
+    {
+        "id": 5,
+        "question": "Thành phố Hồ Chí Minh là thành phố lớn nhất Việt Nam về diện tích.",
+        "correctAnswer": false,
+        "explanation": "Thành phố Hồ Chí Minh là thành phố lớn nhất về dân số, nhưng Hà Nội lớn nhất về diện tích."
+    },
+    {
+        "id": 6,
+        "question": "Đà Lạt là thành phố nằm ở vùng đồng bằng sông Cửu Long.",
+        "correctAnswer": false,
+        "explanation": "Đà Lạt nằm trên cao nguyên Lâm Viên thuộc tỉnh Lâm Đồng, không phải vùng đồng bằng sông Cửu Long."
+    },
+    {
+        "id": 7,
+        "question": "Việt Nam có tổng cộng 63 tỉnh và thành phố trực thuộc trung ương.",
+        "correctAnswer": true,
+        "explanation": "Việt Nam có 63 đơn vị hành chính cấp tỉnh bao gồm 58 tỉnh và 5 thành phố trực thuộc trung ương."
+    },
+    {
+        "id": 8,
+        "question": "Biển Đông là vùng biển giáp với phía đông của Việt Nam.",
+        "correctAnswer": true,
+        "explanation": "Biển Đông là vùng biển nằm phía đông Việt Nam, trải dài từ Bắc xuống Nam."
+    },
+    {
+        "id": 9,
+        "question": "Sapa nằm ở vùng núi Tây Bắc của Việt Nam.",
+        "correctAnswer": true,
+        "explanation": "Sapa là một thị trấn vùng cao nằm ở tỉnh Lào Cai, thuộc vùng núi Tây Bắc."
+    },
+    {
+        "id": 10,
+        "question": "Côn Đảo nằm ở tỉnh Quảng Ninh.",
+        "correctAnswer": false,
+        "explanation": "Côn Đảo là một quần đảo thuộc tỉnh Bà Rịa - Vũng Tàu, không phải Quảng Ninh."
+    }
+]
